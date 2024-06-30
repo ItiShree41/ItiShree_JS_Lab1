@@ -2,7 +2,7 @@
 
 [Problem Statement Week 6 JS Lab-1.docx](https://github.com/user-attachments/files/16045036/Problem.Statement.Week.6.JS.Lab-1.docx)
 
-<h1><b></b>Problem Statement</b></h1>
+<h2><b></b>Problem Statement</b></h2>
 
 Create a Quiz application which will have some questions along with four options for each question.
 
